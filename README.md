@@ -1,108 +1,12 @@
-# Hi 👋 I'm Palla Vennela
+<h1 align="center">
+Hi 👋 I'm Palla Vennela
+</h1>
 
-🎓 B.Tech Computer Science Engineering (AI & ML) Student  
-💻 Aspiring Software Engineer | Backend Developer | AI Enthusiast
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Java+Developer;Python+Developer;Backend+Enthusiast;AI+%26+ML+Learner" />
+</h3>
 
----
-
-## 🚀 About Me
-
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
-
-I enjoy building software applications, backend systems, and AI-based solutions.
-
-Currently focusing on:
-
-- 📌 Data Structures & Algorithms
-- ☕ Java Programming
-- 🐍 Python Development
-- ⚡ Backend Development
-- 🤖 Artificial Intelligence & Machine Learning
-
-I am actively preparing for Software Engineer roles and looking for opportunities to contribute to real-world projects.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### Backend
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-
----
-
-## 🚀 Featured Projects
-
-
-### 📚 Smart Study Zone Finder
-
-A Flask-based web application that helps students find suitable study spaces.
-
-**Tech:**
-Python | Flask | HTML | CSS | JavaScript
-
-
-### 🎥 CamScam
-
-A Python-based screen recording application.
-
-**Tech:**
-Python | OpenCV | PyAutoGUI
-
-
-### 🤖 AI Product Recommendation System
-
-An AI-based recommendation system for product intelligence.
-
-**Tech:**
-Python | Machine Learning | NLP
-
-
----
-
-## 📚 Currently Learning
-
-- Advanced Java
-- Data Structures & Algorithms
-- Backend Architecture
-- Cloud Computing
-- System Design
-
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/vennelapalla/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -110,12 +14,33 @@ Python | Machine Learning | NLP
 <a href="mailto:pallavennela88@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
-
 </p>
 
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-![Vennela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vennelapalla&show_icons=true)
+I'm a B.Tech Computer Science Engineering (AI & ML) student passionate about
+building backend systems, AI applications, and solving real-world problems.
+
+```python
+class Vennela:
+    def __init__(self):
+        self.role = "Aspiring Software Engineer"
+        self.location = "Guntur, Andhra Pradesh, India"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.skills = [
+            "Java",
+            "Python",
+            "Backend Development",
+            "Artificial Intelligence"
+        ]
+
+    def current_work(self):
+        return [
+            "🚀 Building backend applications",
+            "📚 Learning Data Structures & Algorithms",
+            "🤖 Exploring Generative AI",
+            "💻 Preparing for Software Engineer roles"
+        ]
