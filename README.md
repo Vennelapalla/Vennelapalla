@@ -45,4 +45,122 @@ class Vennela:
             "💻 Preparing for Software Engineer roles"
         ]
 
+---
+
+## 💫 About Me
+
+🚀 I'm currently working on backend applications and AI-powered projects
+
+🤝 I'm looking to collaborate on Open Source, AI/ML, and Backend projects
+
+💻 Improving my System Design and Advanced DSA skills
+
+🌱 Currently learning Java, Data Structures & Algorithms, Generative AI, and Cloud Technologies
+
+💬 Ask me about Java, Python, Flask, Backend Development, and AI projects
+
+⚡ Fun fact: I love building projects that solve real-world problems
+
+
+---
+
+## 🌐 Connect With Me
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vennelapalla">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+
+<a href="mailto:pallavennela88@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+
+</p>
+
+
+---
+
+# 💻 Tech Stack
+
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,flask,fastapi,mongodb,mysql,git,github,vscode,docker" />
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 📚 Smart Study Zone Finder
+
+Flask-based application to help students find suitable study spaces.
+
+**Tech:**
+Python | Flask | HTML | CSS | JavaScript
+
+
+---
+
+## 🎥 CamScam
+
+Python screen recording application.
+
+**Tech:**
+Python | OpenCV | PyAutoGUI | PyAudio
+
+
+---
+
+## 👩‍💻 Digital Saathi
+
+Women empowerment awareness mobile application.
+
+**Tech:**
+Flutter | Firebase
+
+
+---
+
+## 🏙️ Smart City Complaint System
+
+AI-powered complaint management system.
+
+**Tech:**
+React | FastAPI | MongoDB
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vennelapalla&show_icons=true&theme=tokyonight">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vennelapalla&theme=tokyonight">
+
+
+---
+
+## 🏆 GitHub Trophies
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vennelapalla&theme=radical">
+
+
+---
+
+## 🐍 Contribution Snake
+
+
+<img src="https://raw.githubusercontent.com/Vennelapalla/Vennelapalla/output/github-contribution-grid-snake.svg">
+
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Vennelapalla&color=blue)](https://visitcount.itsvg.in)
 
